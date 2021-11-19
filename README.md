@@ -1,2 +1,2 @@
 # machine-learning-from-scratch
-We create the algoritnms of ML from scratch with python
+We create the algorithms of ML from scratch with python
